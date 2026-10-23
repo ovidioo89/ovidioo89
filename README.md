@@ -1,16 +1,63 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**ovidioo89/ovidioo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:FF0000&height=200&section=header&text=MIGUEL%20EXPEDITO%20OVIDIO%20DOS%20SANTOS&fontSize=38&fontColor=FF3333&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20DATA%20%7C%20AI&descAlignY=58&descSize=15" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=FF3333&center=true&vCenter=true&width=750&lines=Initializing+Developer+Profile...;Software+Engineering+Student;Backend+Developer+in+Progress;Data+%26+Artificial+Intelligence;Building+Ideas+%E2%86%92+Systems+%E2%86%92+Solutions" />
+
+<br><br>
+
+</div>
+ 
+### 📫 Contato & Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+<a href="https://www.linkedin.com/in/miguel-ovidio">
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ovidiodev@email.com)
+ 
+---
+ 
+### 👨‍💻 Sobre
+Atualmente cursando o 2º período de Engenharia de Software na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend
+ 
+* **Habilidades Técnicas:** Python, CSS, HTML, C#.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Experiência/Projetos Relevantes:** Atuei em Estagiário em Suporte Técnico de TI onde desenvolvi experiência com atendimento a usuários, resolução de problemas técnicos, configuração de equipamentos e suporte a sistemas e softwares.
+ 
+---
+ 
+### 🛠 Minhas Ferramentas Favoritas
+
+<div align="center">
+
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br><br>
+
+
+</div>
+
+---
+ 
+#### 💻 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+ 
+#### ⚙️ Ferramentas
+![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Collab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+#### 🤖 Inteligência Artificial & Ciência de Dados
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
