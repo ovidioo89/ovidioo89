@@ -16,6 +16,7 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linkedin,github,gmail" />
+<a href="https://github.com/ovidioo89">
 
 <br><br>
 
