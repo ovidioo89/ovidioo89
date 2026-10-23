@@ -23,9 +23,7 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="ovidiodev@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
+
 
 <br><br>
 
