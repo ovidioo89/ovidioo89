@@ -12,9 +12,7 @@
 </div>
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-<a href="https://www.linkedin.com/in/miguel-ovidio">
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ovidiodev@email.com)
+<img src="https://skillicons.dev/icons?i=linkedin,github,gmail" />
  
 ---
  
