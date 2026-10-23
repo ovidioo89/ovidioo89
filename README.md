@@ -15,8 +15,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linkedin,github,gmail" />
-<a href="https://github.com/ovidioo89">
+<a href="https://www.linkedin.com/in/miguel-ovidio/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ovidioo89" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="ovidiodev@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
 
 <br><br>
 
