@@ -12,7 +12,14 @@
 </div>
  
 ### 📫 Contato & Redes Sociais
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=linkedin,github,gmail" />
+
+<br><br>
+
+</div>
  
 ---
  
