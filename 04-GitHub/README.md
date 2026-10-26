@@ -9,7 +9,7 @@ Desenvolver e aprimorar minha presença profissional no GitHub, organizando meus
 
 Inicialmente, meu perfil apresentava uma estrutura simples, com poucas informações profissionais e repositórios que ainda precisavam de organização e documentação.
 
-![GitHub Antes](imagens/github-antes.jpeg)
+![GitHub Antes](github-antes.jpeg)
 
 ## 3. Melhorias realizadas
 
@@ -26,19 +26,19 @@ Durante o semestre, foram realizadas as seguintes melhorias:
 
 Após as atualizações, o perfil passou a apresentar uma estrutura mais organizada, facilitando a visualização dos meus conhecimentos e projetos.
 
-![GitHub Depois](imagens/github-depois.jpeg)
+![GitHub Depois](github-depois.jpeg)
 
 ## 5. Organização dos repositórios
 
 Os repositórios foram organizados com nomes claros, descrições e documentação explicativa.
 
-![Repositórios](imagens/repositorios.png)
+![Repositórios](repositorios.png)
 
 ## 6. Personalização do README
 
 Foi desenvolvido um README de perfil contendo informações sobre minha formação acadêmica, experiências, tecnologias em aprendizado e objetivos profissionais.
 
-![README do Perfil](imagens/readme-perfil.png)
+![README do Perfil](readme-perfil.png)
 
 ## 7. Reflexão pessoal
 
