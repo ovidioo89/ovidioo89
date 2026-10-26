@@ -11,3 +11,4 @@ Esta seção apresenta uma reflexão sobre minha evolução pessoal, acadêmica 
 5. [Plano de ação para a carreira](05-Plano-de-Acao.md)
 6. [Avaliação das próprias escolhas](06-Avaliacao-das-Escolhas.md)
 7. [Limitações e resultados](07-Limitacoes-e-Resultados.md)
+8. [Considerações Finais](08-Considearcoes-finais.md).
