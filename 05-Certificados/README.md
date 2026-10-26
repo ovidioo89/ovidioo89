@@ -8,7 +8,8 @@ Esta seção reúne os certificados dos cursos realizados durante minha formaç�
 |---|---|---|---|
 | Python | Santander | 08 Horas | [Visualizar](python-santander.pdf) |
 | Fundamentos TI | Fundação Bradesco | 07 horas | [Visualizar](fundamentos-ti-bradesco.pdf) |
-| **TOTAL** | | **16 horas** | |
+| IA GitHub | Fundação Bradesco | 15 horas | [Visualizar](ia-github-bradesco.pdf) |
+| **TOTAL** | | **30 horas** | |
 
 ## Objetivo
 
