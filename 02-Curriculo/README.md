@@ -6,8 +6,10 @@ Demonstrar as melhorias realizadas no meu currículo durante o semestre.
 ## Principais melhorias
 - Reorganização das informações profissionais.
 - Atualização da formação acadêmica em Engenharia de Software.
-- Melhor apresentação das competências técnicas e comportamentais.
-- Destaque para experiências profissionais relevantes.
+- Separação das competências técnicas (Hard Skills) e comportamentais (Soft Skills.)
+- Inclusão da experiência profissional como estagiário de Suporte Técnico
+- Adição dos perfis do Linkedin e do GitHub.
+- Atualização dos conhecimentos e cursos relaciionados à programação
 - Melhoria da estrutura visual e da legibilidade.
 
 ## Antes
