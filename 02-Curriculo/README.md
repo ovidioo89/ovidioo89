@@ -21,6 +21,8 @@ Apesar de apresentar minha formação e algumas habilidades, o documento não de
 
 Além disso, as competências técnicas e comportamentais não estavam separadas, tornando a apresentação do meu perfil profissional menos direcionada.
 
+![Curriculo Antes](curriculo-antes.pdf)
+
 ## Depois
 Após as atualizações, meu currículo passou a apresentar uma estrutura mais moderna, organizada e direcionada à área de Tecnologia de Informação, especialmente ao desenvolvimento Front-End.
 
