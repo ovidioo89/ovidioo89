@@ -6,16 +6,18 @@ Bem-vindo ao meu portfólio acadêmico!
 
 Este repositório reúne as atividades desenvolvidas durante o semestre, demonstrando minha evolução pessoal, acadêmica e profissional.
 
+
 ## Componentes do Portfólio
 
-| Etapa | Descrição | Acesso |
+| Componente | Descrição |
 |---|---|
-| 01 | [Análise do Perfil DISC] | [Visualizar](./01-Perfil-DISC) |
-| 02 | [Evolução do Currículo] | [Visualizar](./02-Curriculo) |
-| 03 | [Evolução do LinkedIn] | [Visualizar](./03-LinkedIn) |
-| 04 | [Evolução do GitHub] | [Visualizar](./04-GitHub) |
-| 05 | [Certificados Complementares] | [Visualizar](./05-Certificados) |
-| 06 | [Reflexões da Jornada] | [Visualizar](./06-Reflexão-da-Jornada) |
+| 01 | [Análise do Perfil DISC](./01-Perfil-DISC/README.md) |
+| 02 | [Evolução do Currículo](./02-Curriculo/README.md) |
+| 03 | [Evolução do LinkedIn](./03-LinkedIn/README.md) |
+| 04 | [Evolução do GitHub](./04-GitHub/README.md) |
+| 05 | [Certificados Complementares](./05-Certificados/README.md) |
+| 06 | [Reflexão sobre a Jornada](./06-Reflexao-da-Jornada/README.md) |
+
 
 ## Objetivo
 
