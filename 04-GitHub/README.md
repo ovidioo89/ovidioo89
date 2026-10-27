@@ -38,7 +38,7 @@ Os repositórios foram organizados com nomes claros, descrições e documentaç�
 
 Foi desenvolvido um README de perfil contendo informações sobre minha formação acadêmica, experiências, tecnologias em aprendizado e objetivos profissionais.
 
-![README do Perfil](readme-perfil.png)
+![README do Perfil](personalizacao-readme.png)
 
 ## 7. Reflexão pessoal
 
