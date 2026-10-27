@@ -18,7 +18,7 @@ Este repositório reúne as atividades desenvolvidas durante o semestre, demonst
 
 ### [04. Evolução do GitHub](https://github.com/ovidioo89/ovidioo89/blob/main/04-GitHub/README.md)
 
-### [05. Certificados Complementares](05-Certificados/)
+### [05. Certificados Complementares](https://github.com/ovidioo89/ovidioo89/blob/main/05-Certificados/README.md)
 
 ### [06. Reflexão sobre a Jornada](06-Reflexao-da-Jornada/)
 
