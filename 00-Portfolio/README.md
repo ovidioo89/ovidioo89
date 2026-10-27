@@ -12,7 +12,7 @@ Este repositório reúne as atividades desenvolvidas durante o semestre, demonst
 
 ### [01. Análise do Perfil DISC](https://github.com/ovidioo89/ovidioo89/blob/main/01-Perfil-DIS/README.md)
 
-### [02. Evolução do Currículo](02-Curriculo/)
+### [02. Evolução do Currículo](https://github.com/ovidioo89/ovidioo89/blob/main/02-Curriculo/README.md)
 
 ### [03. Evolução do LinkedIn](03-LinkedIn/)
 
