@@ -14,7 +14,7 @@ Este repositório reúne as atividades desenvolvidas durante o semestre, demonst
 
 ### [02. Evolução do Currículo](https://github.com/ovidioo89/ovidioo89/blob/main/02-Curriculo/README.md)
 
-### [03. Evolução do LinkedIn](03-LinkedIn/)
+### [03. Evolução do LinkedIn](https://github.com/ovidioo89/ovidioo89/blob/main/03-Linkedin/README.md)
 
 ### [04. Evolução do GitHub](04-GitHub/)
 
