@@ -20,7 +20,7 @@ Este repositório reúne as atividades desenvolvidas durante o semestre, demonst
 
 ### [05. Certificados Complementares](https://github.com/ovidioo89/ovidioo89/blob/main/05-Certificados/README.md)
 
-### [06. Reflexão sobre a Jornada](06-Reflexao-da-Jornada/)
+### [06. Reflexão sobre a Jornada](https://github.com/ovidioo89/ovidioo89/blob/main/06-Reflexao-da-jornada/README.md)
 
 
 ## Objetivo
