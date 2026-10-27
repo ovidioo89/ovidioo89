@@ -26,7 +26,7 @@ Durante o semestre, foram realizadas as seguintes melhorias:
 
 Após as atualizações, o perfil passou a apresentar uma estrutura mais organizada, facilitando a visualização dos meus conhecimentos e projetos.
 
-![GitHub Depois](github-depois.jpeg)
+![GitHub Depois](github-depois.png)
 
 ## 5. Organização dos repositórios
 
