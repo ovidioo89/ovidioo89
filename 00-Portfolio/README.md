@@ -15,7 +15,7 @@ Este repositório reúne as atividades desenvolvidas durante o semestre, demonst
 | 03 | [Evolução do LinkedIn](03-LinkedIn) |
 | 04 | [Evolução do GitHub](04-GitHub) |
 | 05 | [Certificados Complementares](05-Certificados) |
-| 06 | [Reflexões da Jornada](06-Reflexões da Jornada) |
+| 06 | [Reflexões da Jornada](06-Reflexão da Jornada) |
 
 ## Objetivo
 
