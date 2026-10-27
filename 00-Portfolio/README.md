@@ -8,7 +8,7 @@ Este repositório reúne as atividades desenvolvidas durante o semestre, demonst
 
 ## Componentes do Portfólio
 
-| Etapa | Descrição |
+| Etapa | Descrição | Acesso |
 |---|---|
 | 01 | [Análise do Perfil DISC] | [Visualizar](./01-Perfil-DISC) |
 | 02 | [Evolução do Currículo] | [Visualizar](./02-Curriculo) |
