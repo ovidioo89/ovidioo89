@@ -10,7 +10,7 @@ Este repositório reúne as atividades desenvolvidas durante o semestre, demonst
 
 ## Componentes do Portfólio
 
-### [01. Análise do Perfil DISC](01-Perfil-DISC/)
+### [01. Análise do Perfil DISC](https://github.com/ovidioo89/ovidioo89/blob/main/01-Perfil-DIS/README.md)
 
 ### [02. Evolução do Currículo](02-Curriculo/)
 
