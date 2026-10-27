@@ -10,12 +10,12 @@ Este repositório reúne as atividades desenvolvidas durante o semestre, demonst
 
 | Etapa | Descrição |
 |---|---|
-| 01 | [Análise do Perfil DISC] | [Visualizar](01-Perfil-DISC) |
-| 02 | [Evolução do Currículo] | [Visualizar](02-Curriculo) |
-| 03 | [Evolução do LinkedIn] | [Visualizar](03-LinkedIn) |
-| 04 | [Evolução do GitHub] | [Visualizar](04-GitHub) |
-| 05 | [Certificados Complementares] | [Visualizar](05-Certificados) |
-| 06 | [Reflexões da Jornada] | [Visualizar](06-Reflexão-da-Jornada) |
+| 01 | [Análise do Perfil DISC] | [Visualizar](./01-Perfil-DISC) |
+| 02 | [Evolução do Currículo] | [Visualizar](./02-Curriculo) |
+| 03 | [Evolução do LinkedIn] | [Visualizar](./03-LinkedIn) |
+| 04 | [Evolução do GitHub] | [Visualizar](./04-GitHub) |
+| 05 | [Certificados Complementares] | [Visualizar](./05-Certificados) |
+| 06 | [Reflexões da Jornada] | [Visualizar](./06-Reflexão-da-Jornada) |
 
 ## Objetivo
 
