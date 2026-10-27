@@ -32,7 +32,7 @@ Após as atualizações, o perfil passou a apresentar uma estrutura mais organiz
 
 Os repositórios foram organizados com nomes claros, descrições e documentação explicativa.
 
-![Repositórios](repositorios.png)
+![Repositórios](organizacao-repositorios.png)
 
 ## 6. Personalização do README
 
