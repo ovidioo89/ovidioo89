@@ -48,7 +48,7 @@ Atualmente cursando o 2º período de Engenharia de Software na UNICID. Sou apai
 
 <img src="https://skillicons.dev/icons?i=html,css,python" />
 
-### Tools
+### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
